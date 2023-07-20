@@ -1,0 +1,44 @@
+*{
+	
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+#image{
+    padding:40px 40px;
+}
+#img2{
+	filter:none;
+}
+#img3{
+	filter:blur(2px);
+}
+#img4{
+	filter:brightness(90%);
+}
+#img5{
+	filter:grayscale(90%);
+}
+#img1{
+	filter:invert(90%);
+}
+#img6{
+	filte:hue-rotate(90deg);
+}
+#img7{
+	filter:opacity(50%);
+}
+#img10{
+	filter:contrast(50%);
+}
+#img8{
+	filter:drop-shadow(10px 10px 20px gray);
+}
+#img9{
+	filter:saturate(6);
+}
+#img11{
+	filter:sepia(100%)
+}
+
+
